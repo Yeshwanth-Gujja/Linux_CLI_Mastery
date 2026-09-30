@@ -1,0 +1,13 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated PDF
+pdf/*.pdf
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
